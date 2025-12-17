@@ -31,8 +31,3 @@ The dashboard allows stakeholders to quickly understand **how customers interact
 
 1. Open the Power BI `.pbix` file included in this repository.
 2. Explore visuals such as heatmaps, KPI cards, session analytics, and sensor trends.
-3. Use slicers or filters to analyze occupancy by day, hour, or sensor type.
-
-## License
-
-This project is for educational and portfolio purposes.
